@@ -286,3 +286,123 @@ Received Import Request.
 Start importing Assets/Models/Potted Plant.blend using Guid(22b77cfb8a0cc494c8c5be5d03d654cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61c50b1136fb5bd1ffc1a3296cb3982') in 0.083188 seconds
   Import took 0.085208 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 142.134533 seconds.
+  path: Assets/Textures/painting 3.png
+  artifactKey: Guid(f3387947198074b7b8e1900d2529778f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/painting 3.png using Guid(f3387947198074b7b8e1900d2529778f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82121599d9441a14a5d2fabec716d368') in 1.134656 seconds
+  Import took 1.136582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Textures/painting 5.png
+  artifactKey: Guid(53ae629d192794be888c855ba844d916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/painting 5.png using Guid(53ae629d192794be888c855ba844d916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850f2569da25f1d3aedea414a4889834') in 0.014427 seconds
+  Import took 0.016365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Textures/painting 4.png
+  artifactKey: Guid(f5be0bbcb85f746a9a48e60d429a9f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/painting 4.png using Guid(f5be0bbcb85f746a9a48e60d429a9f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824bfc3dfbe13e24f4295000e75d9c54') in 0.014416 seconds
+  Import took 0.016271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.009349 seconds.
+  path: Assets/Textures/seamless-wood-texture-background_105762-62.jpg
+  artifactKey: Guid(4283ea90451ab49fa90c7884eac16929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/seamless-wood-texture-background_105762-62.jpg using Guid(4283ea90451ab49fa90c7884eac16929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f448af5b8074b616e7bf9a808135f70c') in 1.175187 seconds
+  Import took 1.177515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.335162 seconds.
+  path: Assets/Textures/Wood.jpg
+  artifactKey: Guid(4283ea90451ab49fa90c7884eac16929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood.jpg using Guid(4283ea90451ab49fa90c7884eac16929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03e512c2fa9af775a5f1e893bbe2460') in 0.008307 seconds
+  Import took 0.010382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.440026 seconds.
+  path: Assets/Materials/Wood.mat
+  artifactKey: Guid(633f1fa5885ad42eea7369a73af790b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Wood.mat using Guid(633f1fa5885ad42eea7369a73af790b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3226c09d8cd46df3b047bdd8d8225bab') in 0.819219 seconds
+  Import took 0.821508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.831860 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-dark.png
+  artifactKey: Guid(1a4f52b613391cd449af3ad2e44affeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-dark.png using Guid(1a4f52b613391cd449af3ad2e44affeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1e8611cc549bd07cca4a2f5d6e5a1c') in 0.007719 seconds
+  Import took 0.010248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-light@2x.png
+  artifactKey: Guid(f5c57327df0fa294c8209aa216435167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-light@2x.png using Guid(f5c57327df0fa294c8209aa216435167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a1b84bf0e7c4d38e7c009045ddc8e8') in 0.007600 seconds
+  Import took 0.009376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-dark.png
+  artifactKey: Guid(8e3ec2dfd58b79842aa78376678a9a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-dark.png using Guid(8e3ec2dfd58b79842aa78376678a9a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b8c63c435cffc8eb391a7745ce31d7') in 0.007954 seconds
+  Import took 0.009862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-dark@2x.png
+  artifactKey: Guid(9c6313a5316f8a34b852bf94ff96e3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-dark@2x.png using Guid(9c6313a5316f8a34b852bf94ff96e3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b588310b55869cbc486115aa69b1ccab') in 0.010804 seconds
+  Import took 0.012994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-dark@2x.png
+  artifactKey: Guid(c223e0c507e2c6549a2cb97441b62cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-dark@2x.png using Guid(c223e0c507e2c6549a2cb97441b62cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f89d69cfd65303012913f0e9bae2b474') in 0.007646 seconds
+  Import took 0.009638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-light@2x.png
+  artifactKey: Guid(ec2e3aa6d0ab8ce4eac29b56d65d61d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-light@2x.png using Guid(ec2e3aa6d0ab8ce4eac29b56d65d61d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782e9506c4145a6d2694135fa4109023') in 0.007771 seconds
+  Import took 0.009944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-light.png
+  artifactKey: Guid(e676ab7aa99535447a763c9f88bf9260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-light.png using Guid(e676ab7aa99535447a763c9f88bf9260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b75ccfb3ecb68192a11c7c0115f1ca') in 0.008475 seconds
+  Import took 0.010349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-light.png
+  artifactKey: Guid(397fff6c3885f8343bb65714f0064b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-light.png using Guid(397fff6c3885f8343bb65714f0064b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507d01aa476b46f9d0fbfbce3cecc40f') in 0.008519 seconds
+  Import took 0.010308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007963 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-light.png
+  artifactKey: Guid(e676ab7aa99535447a763c9f88bf9260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-light.png using Guid(e676ab7aa99535447a763c9f88bf9260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b75ccfb3ecb68192a11c7c0115f1ca') in 0.006537 seconds
+  Import took 0.008776 seconds .
+
